@@ -6,9 +6,11 @@
   <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.gif?cid=6c09b952x1cdvynkolzqteyml29ejnt9g49yc97qqmhzprry&ep=v1_gifs_search&rid=200w.gif&ct=g" height="150" style="display: block; margin: auto;" />
 </div>
 
-<kbd>
-Bir yerde herkes bir birine benziyorsa orada kimse yok demektir...
-</kbd>
+<div align="center">
+  <kbd>
+    Bir yerde herkes bir birine benziyorsa orada kimse yok demektir...
+  </kbd>
+</div>
 
 ---
 
