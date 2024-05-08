@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkay AĞGÜL</h1>
+<h1 align="center">Hi 👋, I'm Berkay AĞGÜL.</h1>
 <h3 align="center">I am a student who strives to constantly improve myself in the field of technology, including cyber security and software.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
