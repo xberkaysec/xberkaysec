@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Berkay, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Berkay!</h2>
 
 ###
 
