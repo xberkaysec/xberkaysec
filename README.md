@@ -8,7 +8,7 @@
 
 <div align="center">
   <kbd>
-    Bir yer de herkes bir birine benziyorsa orada kimse yok demektir...
+    Bir yerde herkes bir birine benziyorsa orada kimse yok demektir...
   </kbd>
 </div>
 
