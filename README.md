@@ -8,7 +8,7 @@
 
 <div align="center">
   <kbd>
-    Bir yerde herkes bir birine benziyorsa orada kimse yok demektir...
+    Tiocfaidh ár lá - Bizim de Sonumuz Gelecek...
   </kbd>
 </div>
 
